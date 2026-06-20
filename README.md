@@ -190,8 +190,8 @@ SMART-WARDROBE-ASSISTANT/
 ### **1️⃣ Clone Repo**
 
 ```
-git clone https://github.com/prajnashreekulal/SMART-WARDROBE-ASSISTANT-AI-POWERED-OUTFIT-RECOMMENDER.git
-cd SMART-WARDROBE-ASSISTANT-AI-POWERED-OUTFIT-RECOMMENDER
+git clone https://github.com/KrithikaDevadiga444/Smart-Wardrobe-Assistant.git
+cd Smart-Wardrobe-Assistant
 ```
 
 ### **2️⃣ Create virtual environment**
